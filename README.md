@@ -1,0 +1,2 @@
+# Insights-into-COVID-19-Feb-Jul-2020-
+The novelty of the deadly COVID-19, and the ensuing global pandemic cum lockdown implies that there is a need to keep track of how it affects people all over the world. One way of achieving this is via the use of data and visualisation to gain insights. This project focuses on analysing the cases of COVID-19 as recorded by the World Health Organisation (WHO).
